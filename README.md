@@ -2,7 +2,7 @@
 
 ## Project:
 
-This project is an application that dynamically generates an ideal GitHub README file based on a series of user inputs using node.js
+This project is an application that dynamically generates an ideal GitHub README file. The user runs Node.js in terminal/GitBash and encounters a series of prompts that then takes the user's answers and populates a README template to create the new file.
 
 <br>
 
