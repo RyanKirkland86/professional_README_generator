@@ -34,7 +34,7 @@ node index.js
 
 ![Image](https://github.com/RyanKirkland86/professional_README_generator/blob/main/Assets/Terminal%20Screenshot.jpg)
 
-The user will then face a series of prompts asking question to populate the README. Here is a sample of that code:
+The user will then receive a series of questions to populate the README. Here is a sample of that code:
 
 ```javascript
 const promptUser = () => 
@@ -98,6 +98,8 @@ promptUser()
     .then(() => console.log('Generating README'))
     .catch((err) => console.error(err));
 ```
+
+Refer to the [SampleREADME](https://github.com/RyanKirkland86/professional_README_generator/blob/main/sampleGoodREADME.md) to see an example of the results you can generate with this application.
 
 ## Authors:
 - Ryan Kirkland
