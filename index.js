@@ -108,6 +108,6 @@ If you have any questions about the repo, open an issue or contact me directly a
 can find more of my work at [${data.username}](https://github.com/${data.username}).`;
 
 promptUser()
-    .then((answers) => writeFileAsync('goodREADME.md', generateREADME(answers)))
+    .then((answers) => writeFileAsync('sampleGoodREADME.md', generateREADME(answers)))
     .then(() => console.log('Generating README'))
     .catch((err) => console.error(err));
