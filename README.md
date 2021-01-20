@@ -15,7 +15,7 @@ This project is an application that dynamically generates an ideal GitHub README
 - [Inquirer.js](https://www.npmjs.com/package/inquirer)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## Installation
+## Installation:
 
 To install the necessary dependencies, open Terminal/GitBash and enter this code in the command line:
 
