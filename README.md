@@ -6,7 +6,7 @@ This project is an application that dynamically generates an ideal GitHub README
 
 <br>
 
-![Image](https://github.com/RyanKirkland86/professional_README_generator/blob/main/Assets/Terminal%20Screenshot.jpg)
+![Image](https://github.com/RyanKirkland86/professional_README_generator/blob/main/Assets/CreatingREADMEvideo.gif)
 
 ## Technologies Used:
 - [JavaScript](https://www.javascript.com/)
@@ -31,6 +31,9 @@ After installing the neccessary packages, run this code in the command line:
 node index.js
 ```
 <br>
+
+![Image](https://github.com/RyanKirkland86/professional_README_generator/blob/main/Assets/Terminal%20Screenshot.jpg)
+
 The user will then face a series of prompts asking question to populate the README. Here is a sample of that code:
 
 ```javascript
